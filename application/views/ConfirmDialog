@@ -1,0 +1,5 @@
+<script>
+function confirmDialog() {
+ return confirm('Apakah anda yakin akan menghapus data siswa ini?')
+}
+</script>
